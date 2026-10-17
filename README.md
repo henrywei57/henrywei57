@@ -1,6 +1,5 @@
-# Hi, I'm Henry
 
-I'm a student (class of 2027) who learns by building. I like projects where software meets the physical world: robots, physics simulations, and baseball.
+I'm a student who learns by building. I like projects where software meets the physical world: robots, physics simulations, and baseball.
 
 ## Featured projects
 
